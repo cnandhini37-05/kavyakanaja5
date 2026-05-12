@@ -216,3 +216,7 @@ fun LoginPreview() {
 fun DetailPreview() {
     PoemDetailScreen(PoemRepository.poems[0]) {}
 }
+
+
+
+
